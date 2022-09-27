@@ -8,3 +8,5 @@ Hi 💖 Welcome to Rabbit fiendish's Github Homepage!!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caizilong2019)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=caizilong2019" /> </div>
+##
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=caizilong2019" /> </div>
